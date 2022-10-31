@@ -6,7 +6,7 @@
 ### <div align="center">I'm Kenneth, a 21 yo web developer</div>  
   
 
-- 🔭 I’m currently working on and [e-commerce React app](https://github.com/dRect911)  
+- 🔭 I’m currently working on an [e-commerce React app](https://github.com/dRect911)  
   
 
 - 🌱 I’m currently learning Redux and UI/UX Design  
