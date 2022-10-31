@@ -69,6 +69,7 @@
 <br/>  
 
 
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/dRect911" target="_blank">
@@ -95,7 +96,7 @@
 
 <br/>  
 
-  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dRect911&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>  
 
