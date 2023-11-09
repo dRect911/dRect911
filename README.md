@@ -6,7 +6,7 @@
 ### <div align="center">I'm Kenneth, a 22 yo web developer</div>  
   
 
-- 🔭 I’m currently working on a GSAP animations  
+- 🔭 I’m currently working on N/A 
   
 
 - 🌱 I’m currently learning Redux and UI/UX Design  
